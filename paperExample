@@ -3,6 +3,9 @@ Paper example:
 Introduction
 Suppose we decide to test out a completely different introduction, we can create a branch, and if 
 we decide we like it, we can merge it into the master later.
+As we can see,  git was able to magically combine the two separate files we were working on (I changed the introduction, 
+while you changed the theory). There are situations when merging can be an issue, but I haven't encountered it. As far as I understand
+following some simple rules can avoid pain.
 
 Theory
 Some equations and theory
